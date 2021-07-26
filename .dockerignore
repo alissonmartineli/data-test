@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+.git
+.gitignore
+docker-compose.yml
+Dockerfile
+mr-data-test.ipynb
+build-dependencies.sh
+*.md
+output/
+utils/
